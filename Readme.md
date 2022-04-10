@@ -1,0 +1,1 @@
+Linux下跳入该目录下键入: python web_server.py启动服务器，默认端口7892
